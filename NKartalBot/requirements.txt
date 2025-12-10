@@ -1,0 +1,10 @@
+flask
+python-dotenv
+requests
+pillow
+apscheduler
+google-generativeai
+openai
+huggingface_hub
+instagrapi
+gunicorn
